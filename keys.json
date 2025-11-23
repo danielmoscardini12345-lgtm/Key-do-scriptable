@@ -8,9 +8,9 @@
       "notes": "key de dono"
     },
 
-    "exemplo2": {
-      "enabled": false,
-      "duration": "24h",
+    "XABLAU-7d-KO6SDW8J": {
+      "enabled": true,
+      "duration": "7d",
       "device_limit": 2
     },
 
