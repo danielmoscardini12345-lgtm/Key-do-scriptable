@@ -1,0 +1,29 @@
+{
+  "keys": {
+    "owner-spark": {
+      "enabled": true,
+      "duration": "perm",
+      "device_limit": 1
+      
+      "notes": "key de dono"
+    },
+
+    "exemplo2": {
+      "enabled": false,
+      "duration": "24h",
+      "device_limit": 2
+    },
+
+    "exemplo3": {
+      "enabled": false,
+      "duration": "7d",
+      "device_limit": 5
+    },
+
+    "oii": {
+      "enabled": false,
+      "duration": "7d",
+      "device_limit": 3
+    }
+  }
+}
