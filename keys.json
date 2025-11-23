@@ -14,10 +14,10 @@
       "device_limit": 2
     },
 
-    "exemplo3": {
-      "enabled": false,
-      "duration": "7d",
-      "device_limit": 5
+    "992185909": {
+      "enabled": true,
+      "duration": "5s",
+      "device_limit": 2
     },
 
     "oii": {
